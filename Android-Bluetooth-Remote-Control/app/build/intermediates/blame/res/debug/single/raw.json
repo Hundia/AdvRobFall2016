@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/nap_time.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/nap_time.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/i_see_you.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/i_see_you.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/there_you_are.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/there_you_are.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/sleep_mode.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/sleep_mode.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/shutting_down.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/shutting_down.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/target_aquired.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/target_aquired.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/anyone_there.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/anyone_there.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/index.htm",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/index.htm"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/good_bye.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/good_bye.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/searching.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/searching.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/are_you_still_there.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/are_you_still_there.wav"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/raw/activated.wav",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/raw/activated.wav"
+    }
+]

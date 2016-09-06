@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/menu/settings.xml",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/menu/settings.xml"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/menu/sound.xml",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/menu/sound.xml"
+    }
+]

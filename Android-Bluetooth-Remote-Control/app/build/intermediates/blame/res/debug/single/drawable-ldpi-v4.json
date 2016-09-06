@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/joystick.png",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/drawable-ldpi/joystick.png"
+    },
+    {
+        "merged": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_btrc.png",
+        "source": "/Users/elihundia/StudioProjects/Android-Bluetooth-Remote-Control/app/src/main/res/drawable-ldpi/ic_btrc.png"
+    }
+]
