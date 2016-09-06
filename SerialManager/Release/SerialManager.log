@@ -1,0 +1,21 @@
+﻿Build started 12/03/2016 15:58:14.
+     1>Project "C:\Users\NokiDesk\Downloads\Development\From Ariel\ladybird2\SerialManager\SerialManager.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\SerialManager.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\ladybird2\SerialMessage.cpp ..\ladybird2\SerialMgr.cpp
+         SerialMessage.cpp
+     1>..\ladybird2\SerialMessage.cpp(1): warning C4627: '#include "SerialMessage.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>..\ladybird2\SerialMessage.cpp(14): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         SerialMgr.cpp
+     1>..\ladybird2\SerialMgr.cpp(4): warning C4627: '#include "SerialMessage.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>..\ladybird2\SerialMgr.cpp(5): warning C4627: '#include "SerialMgr.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>..\ladybird2\SerialMgr.cpp(6): warning C4627: '#include <boost/thread.hpp>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>..\ladybird2\SerialMgr.cpp(8): fatal error C1083: Cannot open include file: 'targetver.h': No such file or directory
+     1>Done Building Project "C:\Users\NokiDesk\Downloads\Development\From Ariel\ladybird2\SerialManager\SerialManager.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10
